@@ -2,7 +2,7 @@
 
 - 😄 Gosto muito de programação e considero uma área bastante promissora
 - ❤️ Sou apaixonado pelas novidades tecnológicas 
-- 👨🏻‍💻 Curto trabalhar mais com a parte de Backend
+- 👨🏻‍💻 Curto trabalhar com o Backend
 - 👨🏻‍🎓 Sou formado em Sistemas de Informação
 - 📚 Gosto de fazer Cursos e ler livros voltados a área para ampliar cada vez mais minhas habilidades
 
