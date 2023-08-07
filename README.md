@@ -7,7 +7,7 @@
 - 📚 Gosto de fazer Cursos e ler livros voltados a área para ampliar cada vez mais minhas habilidades
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eduardobernardo06&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Bernardo github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eduardobernardo06&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Bernardo github stats" /> 
 </div>
 
 
