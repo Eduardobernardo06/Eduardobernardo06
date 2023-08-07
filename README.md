@@ -6,6 +6,10 @@
 - 👨🏻‍🎓 Sou formado em Sistemas de Informação
 - 📚 Gosto de fazer Cursos e ler livros voltados a área para ampliar cada vez mais minhas habilidades
 
+<div>
+<img  height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardobernardo06=github-readme-stats,Eduardobernardo06.github.io)
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
