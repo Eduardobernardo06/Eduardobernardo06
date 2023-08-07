@@ -1,10 +1,9 @@
 ### Olá, Eu Me Chamo Eduardo Bernardo 👋
 
-- 😄 Gosto muito de programação e considero uma área bastante promissora
-- ❤️ Sou apaixonado pelas novidades tecnológicas 
+- 😄 Gosto muito de programação e considero uma área bastante promissora 
 - 👨🏻‍💻 Curto trabalhar com o Backend
 - 👨🏻‍🎓 Sou formado em Sistemas de Informação
-- 📚 Gosto de fazer Cursos e ler livros voltados a área para ampliar cada vez mais minhas habilidades>  
+- 📚 Gosto de fazer Cursos e ler livros voltados a área para ampliar cada vez mais minhas habilidades 
 
 <div >  
    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardobernardo06&layout=compact&hide_border=true&title_color=DCDCDC&text_color=DCDCDC&bg_color=0d1117" />
@@ -22,5 +21,4 @@
   <img align="center" alt="Eduardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Eduardo-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Eduardo-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-
-  </div>
+</div>
